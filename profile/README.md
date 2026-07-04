@@ -11,13 +11,11 @@ Status: **Active research** · Baseline branch `ai-research-baseline` across all
 ## Domains
 
 - Agentic AI / Adaptive Intelligence
-- Vision Language Models
-- Audio & Speech
+- Multimodal & Perception
 - Robotics
 - Biochar
 - Sustainability & Climate
-- Deeptech / General AI infrastructure
-- AI Foundation
+- AI Foundation & Infra
 - Productivity & Tooling
 - Database & Storage
 
